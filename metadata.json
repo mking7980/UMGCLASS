@@ -1,0 +1,6 @@
+{
+  "name": "UMG",
+  "description": "Dark-themed mobile investment platform interface with VIP tiers, task earnings, withdrawal schedule locking, and wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
